@@ -9,8 +9,8 @@
     }
   ],
   "require": {
-    "laravel/framework": "^9.0|^10.0|^11.0|^12.0",
-    "overtrue/easy-sms": "^2.0"
+    "laravel/framework": "^10.0|^11.0|^12.0",
+    "overtrue/easy-sms": "^3.0"
   },
   "autoload": {
     "psr-4": {
